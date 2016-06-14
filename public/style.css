@@ -1,0 +1,139 @@
+#ia {
+	text-decoration: none;
+	color: black;
+}
+
+#inav {
+	margin-right: 10%;
+}
+
+#ili {
+	float: right;
+	list-style: none;
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#isocial {
+	display: inline;
+	position: fixed;
+}
+
+#icenter{
+	text-align: center;
+}
+
+#ihome-pic {
+	background-image: url("http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/12/12/102264730-charity.1910x1000.jpg");
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 2%;
+	padding-right: 80%;
+	padding-bottom: 40%;
+	background-size: 100% 100%;
+}
+
+#isyria-pic {
+	background-image: url("http://blog.christianrelieffund.org/wp-content/uploads/2015/09/refugees.jpg");
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-top: 3%;
+	padding-right: 50%;
+	padding-bottom: 30%;
+	background-size: 100% 100%;
+}
+
+#inews {
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+#iform {
+	margin-right: 50%;
+	margin-left: 50%; 
+}
+
+#idonate {
+	font-size: 22px;
+	margin: auto;
+	display: table;
+}
+
+#ip { 
+	display: table-row;
+}
+
+#ilabel { 
+	display: table-cell;
+}
+
+#iinput { 
+	display: table-cell; 
+}
+
+.mdiv{
+	border: 1px solid black;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 2%;
+	
+}
+.mh1{
+
+	background-color: gray;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 2%;
+	text-align: center;
+
+}
+.ma:hover {
+    background-color: green;
+}
+
+#jglimmer{
+	background-image: url("http://aglimmerofhope.org/sites/all/themes/ourglimmer/img/agoh.png");
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 3%;
+	padding-right: 30%;
+	padding-bottom: 30%;
+	background-size: 100% 100%;
+
+}
+
+#jkenya{
+	background-image: url("http://revivehumanity.org/wp-content/uploads/2014/02/classroom_text.jpg");
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 3%;
+	padding-right: 30%;
+	padding-bottom: 30%;
+	background-size: 100% 100%;
+}
+
+
+
+#jfeed{
+	background-image: url("http://www.feedingamerica.org/assets/images/impact-we-make-wide.png");
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 3%;
+	padding-right: 30%;
+	padding-bottom: 30%;
+	background-size: 100% 100%;
+}
+
+#jcenter{
+	text-align: center;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+#jal{
+	margin-left:10%;
+}
+
+
+
